@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main() {
+    double n1, n2;
+
+    printf("Digite a primeira nota: ");
+    scanf("%lf", &n1);
+
+    while (n1 < 0 || n1 > 10) {
+        printf("Valor invalido! Tente novamente: ");
+        scanf("%lf", &n1);
+    }
+
+    printf("Digite a segunda nota: ");
+    scanf("%lf", &n2);
+
+    while (n1 < 0 || n1 > 10) {
+        printf("Valor invalido! Tente novamente: ");
+        scanf("%lf", &n2);
+    }
+
+    double media = (n1 + n2) / 2;
+
+    printf("MEDIA = %.2lf", media);
+    return 0;
+}
