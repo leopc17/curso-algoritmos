@@ -1335,3 +1335,5 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,java,eclipse,c,c++,clion+all,clion+iml,clion,csharp,visualstudio,python,pycharm,pycharm+all,pycharm+iml
 
+.idea/
+CMakeLists.txt
