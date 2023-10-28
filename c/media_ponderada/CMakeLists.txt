@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.24)
-project(media_ponderada C)
-
-set(CMAKE_C_STANDARD 11)
-
-add_executable(media_ponderada main.c)
