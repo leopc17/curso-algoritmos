@@ -127,11 +127,7 @@
     
 19. #### Lanchonete 
 
-    Uma lanchonete possui vários produtos. Cada produto possui um código e um preço. Você deve fazer um 
-
-    programa para ler o código e a quantidade comprada de um produto (suponha um código válido), e daí 
-
-    informar qual o valor a ser pago, com duas casas decimais, conforme tabela de produtos abaixo.
+    Uma lanchonete possui vários produtos. Cada produto possui um código e um preço. Você deve fazer um programa para ler o código e a quantidade comprada de um produto (suponha um código válido), e daí informar qual o valor a ser pago, com duas casas decimais, conforme tabela de produtos abaixo.
 
     | Código do produto | Preço do produto |
     | ----------------- | ---------------- |
@@ -140,9 +136,9 @@
     | 3                 | R$ 4.80          |
     | 4                 | R$ 8.90          |
     | 5                 | R$ 7.32          |
-
     
-
+    
+    
 20. #### Multiplos
 
     Fazer um programa para ler dois números inteiros, e dizer se um número é múltiplo do outro. Os
