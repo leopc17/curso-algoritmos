@@ -1337,3 +1337,5 @@ pyrightconfig.json
 
 .idea/
 CMakeLists.txt
+/java/.gitignore
+**/.gitignore
